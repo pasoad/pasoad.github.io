@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Problème de connexion réseau avec Windows 11
 ---
 
 ## Problème de connexion réseau avec Windows 11
@@ -17,6 +18,6 @@ Dans Paramètres/Réseau et Internet/Ethernet (ET/OU WiFi)
 
 Ensuite il faut sélectionner IPv4 et remplir le champ "DNS préféré"
 
-![Capture d'écran résumant la procédure]({{site.baseurl}}/_posts/Capture d'écran 2023-08-13 221953.png)
+![Capture d'écran résumant la procédure](/_posts/2023-08-13-panne-reseau_1.png)
 
 J'ai choisi d'utiliser le serveur DNS de chez CloudFlare : 1.1.1.1
