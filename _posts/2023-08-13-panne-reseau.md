@@ -21,3 +21,9 @@ Ensuite il faut sélectionner IPv4 et remplir le champ "DNS préféré"
 ![Capture d'écran résumant la procédure](/_posts/2023-08-13-panne-reseau_1.png)
 
 J'ai choisi d'utiliser le serveur DNS de chez CloudFlare : 1.1.1.1
+
+![Capture d'écran résumant la procédure](/images/2023-08-13-panne-reseau_1.png)
+
+essais
+
+![Capture d'écran résumant la procédure](/assets/images/2023-08-13-panne-reseau_1.png)
