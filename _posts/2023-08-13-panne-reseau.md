@@ -2,13 +2,14 @@
 published: true
 layout: post
 title: Problème de connexion réseau avec Windows 11
+excerpt_separator: <!--more-->
 ---
-
-## Problème de connexion réseau avec Windows 11
 
 J'ai récemment eu des soucis de connexion internet avec Windows 11.
 
 En effet, du jour au lendemain, Impossible d’accéder à un site Internet et d’effectuer une mise à jour de windows (Je précise que tous mes autres appareils n’avait aucun problèmes avec le réseau). 
+
+<!--more-->
 
 Après avoir redémarré mon ordinateur ainsi que ma box, toujours rien… j'ai trouvé la solution sur le site [malekal](https://www.malekal.com/pas-internet-windows-11-probleme-internet/).
 
