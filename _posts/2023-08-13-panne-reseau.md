@@ -1,7 +1,6 @@
 ---
 published: true
 layout: post
-title: Problème de connexion réseau avec Windows 11
 excerpt_separator: <!--more-->
 ---
 
