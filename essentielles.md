@@ -3,9 +3,12 @@ J'espère m'éviter de la recherche à chaque fois que je change d'appareil (Oui
 
 NB : Liste susceptible de changer régulièrement au fil du temps.
 
-## iOS
+- [iOS](#ios)
+  - [Utilitaires](#utilitaires)
 
-### Utilitaires
+## iOS <a name="ios"></a>
+
+### Utilitaires <a name="utilitaires"></a>
 - [Firefox](https://www.mozilla.org/fr/firefox/new/) : Navigation rapide et privée
 - [MyJD](https://jdownloader.org/) : Contrôle à distance de Jdownloader
 - [Net Analyser](https://techet.net/netanalyzer/) : Analyse du réseau local pour voir ce qui y est connecté
