@@ -1,3 +1,5 @@
+Page en construction!
+
 Ceci est une liste des applications qui sont pour moi indispensable. Classées selon les différents systèmes d'exploitations que j'utilise.
 J'espère m'éviter de la recherche à chaque fois que je change d'appareil (Oui, j'aime bien tester et changer régulièrement d'OS, ordiphone comme PC).
 
@@ -35,55 +37,55 @@ NB : Liste susceptible de changer régulièrement au fil du temps.
 - [OctoPod](https://plugins.octoprint.org/plugins/octopod/) : Gestion imprimante 3D
 - [OpenDocumentReaderLite](https://opendocument.app/) : Liseur de fichiers Libre Office
 - [Orange Téléphone](https://applications-et-logiciels.orange.fr/applications/orange-telephone) : Gestion des appels malveillants
-- [Shazam](https://www.shazam.com/fr) : Identification de musiques
+- [Shazam](https://www.shazam.com/fr) : Identification de titres
 
 ### Communication/Social <a name="communication"></a>
-- Discord :
-- Mammoth :
-- Signal :
+- [Discord](https://discord.com/) : Chat et messagrie plutôt orianté gaming
+- [Mastodon](https://joinmastodon.org/fr) : Réseau social décentralisé
+- [Signal](https://www.signal.org/fr/) : Messagerie sécurisée
 
 ### Multimédia <a name="multimedia"></a>
-- Kodi remote :
-- Emby :
-- Spotify :
-- VLC :
+- [Kodi remote](https://kodi.wiki/view/Official_Kodi_Remote/iOS) : Télécommande pour le lecteur multimédia Kodi
+- [Emby](https://emby.media/) : Serveur de fichiers multimédias (photo, musique et vidéo)
+- [Spotify](https://open.spotify.com/intl-fr) : Platforme de streaming musical
+- [VLC](https://www.videolan.org/vlc/) : Lecteur multimédia ultra polyvalant
 
 ### Domotique/Contrôle <a name="domotique"></a>
-- Energie (Netatmo) :
-- Harmony (Logitech) :
-- Home Assistant :
+- []()Energie (Netatmo) : 
+- []()Harmony (Logitech) :
+- []()Home Assistant :
 
 ### Navigation <a name="navigation"></a>
-- AllTrails :
-- Bikemap :
-- Geovelo :
-- Garmin explore :
-- Komoot :
-- Magi Earth :
-- Mappy :
-- Organic Maps :
-- Wikiloc :
+- []()AllTrails :
+- []()Bikemap :
+- []()Geovelo :
+- []()Garmin explore :
+- []()Komoot :
+- []()Magi Earth :
+- []()Mappy :
+- []()Organic Maps :
+- []()Wikiloc :
 
 ### Divers <a name="divers"></a>
-- BDovore :
-- My Movies :
-- Leboncoin :
+- []()BDovore :
+- []()My Movies :
+- []()Leboncoin :
 
 ### Sports <a name="sports"></a>
-- Garmin Connect :
-- Strava :
+- []()Garmin Connect :
+- []()Strava :
 
 ### Divertissement <a name="divertissement"></a>
-- Géocaching :
-- GIF Keyboard :
-- Leonardo.ai :
-- Youtube :
+- []()Géocaching :
+- []()GIF Keyboard :
+- []()Leonardo.ai :
+- []()Youtube :
 
 ### Jeux <a name="jeux"></a>
-- Pokemon TCG Live :
-- PS App :
-- Steam :
-- Xbox :
+- []()Pokemon TCG Live :
+- []()PS App :
+- []()Steam :
+- []()Xbox :
 
 ## [Unraid](https://unraid.net/fr)
 
