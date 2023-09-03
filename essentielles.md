@@ -24,7 +24,7 @@ NB : Liste susceptible de changer régulièrement au fil du temps.
 - [MyJD](https://jdownloader.org/) : Contrôle à distance de Jdownloader
 - [Net Analyser](https://techet.net/netanalyzer/) : Analyse du réseau local pour voir ce qui y est connecté
 - [NextDNS](https://nextdns.io/fr) : protège contre toutes sortes de menaces, bloque les publicités et les trackers sur les sites web et dans les applications
-- [Authy](https://authy.com/) : Authentification à double facteur. Prise en charge est la 2FA (connexion à deux facteurs)
+- [Authy](https://authy.com/) : Authentification à double facteur
 - [Bitwarden](https://bitwarden.com/) : Gestionnaire de mots de passes
 - [DeepL](https://www.deepl.com/fr/translator) : Traduction de  textes
 - [EMB3D](https://www.emb3d.com/) : Liseur de fichiers 3D
