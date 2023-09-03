@@ -3,8 +3,19 @@ J'espère m'éviter de la recherche à chaque fois que je change d'appareil (Oui
 
 NB : Liste susceptible de changer régulièrement au fil du temps.
 
-- [iOS](#ios)
-  - [Utilitaires](#utilitaires)
+- [iOS ](#ios-)
+  - [Utilitaires ](#utilitaires-)
+  - [Communication/Social ](#communicationsocial-)
+  - [Multimédia ](#multimédia-)
+  - [Domotique/Contrôle ](#domotiquecontrôle-)
+  - [Navigation ](#navigation-)
+  - [Divers ](#divers-)
+  - [Sports ](#sports-)
+  - [Divertissement ](#divertissement-)
+  - [Jeux ](#jeux-)
+- [Unraid](#unraid)
+  - [Docker](#docker)
+  - [Plugins](#plugins)
 
 ## iOS <a name="ios"></a>
 
@@ -26,23 +37,23 @@ NB : Liste susceptible de changer régulièrement au fil du temps.
 - [Orange Téléphone](https://applications-et-logiciels.orange.fr/applications/orange-telephone) : Gestion des appels malveillants
 - [Shazam](https://www.shazam.com/fr) : Identification de musiques
 
-### Communication/Social
+### Communication/Social <a name="communication"></a>
 - Discord :
 - Mammoth :
 - Signal :
 
-### Multimédia
+### Multimédia <a name="multimedia"></a>
 - Kodi remote :
 - Emby :
 - Spotify :
 - VLC :
 
-### Domotique/Contrôle
+### Domotique/Contrôle <a name="domotique"></a>
 - Energie (Netatmo) :
 - Harmony (Logitech) :
 - Home Assistant :
 
-### Navigation
+### Navigation <a name="navigation"></a>
 - AllTrails :
 - Bikemap :
 - Geovelo :
@@ -53,22 +64,22 @@ NB : Liste susceptible de changer régulièrement au fil du temps.
 - Organic Maps :
 - Wikiloc :
 
-### Divers
+### Divers <a name="divers"></a>
 - BDovore :
 - My Movies :
 - Leboncoin :
 
-### Sports
+### Sports <a name="sports"></a>
 - Garmin Connect :
 - Strava :
 
-### Divertissement
+### Divertissement <a name="divertissement"></a>
 - Géocaching :
 - GIF Keyboard :
 - Leonardo.ai :
 - Youtube :
 
-### Jeux
+### Jeux <a name="jeux"></a>
 - Pokemon TCG Live :
 - PS App :
 - Steam :
