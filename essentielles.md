@@ -1,5 +1,5 @@
 Ceci est une liste des applications qui sont pour moi indispensable. Classées selon les différents systèmes d'exploitations que j'utilise.
-J'espère m'éviter de la recherche à chaque fois que je change d'appareil (Oui, j'aime bien tester et changer régulièrement d'OS, ordiphone comme PC.
+J'espère m'éviter de la recherche à chaque fois que je change d'appareil (Oui, j'aime bien tester et changer régulièrement d'OS, ordiphone comme PC).
 
 NB : Liste susceptible de changer régulièrement au fil du temps.
 
@@ -9,19 +9,19 @@ NB : Liste susceptible de changer régulièrement au fil du temps.
 - [Firefox](https://www.mozilla.org/fr/firefox/new/) : Navigation rapide et privée
 - [MyJD](https://jdownloader.org/) : Contrôle à distance de Jdownloader
 - [Net Analyser](https://techet.net/netanalyzer/) : Analyse du réseau local pour voir ce qui y est connecté
-- []()NextDNS : protège contre toutes sortes de menaces, bloque les publicités et les trackers sur les sites web et dans les applications
-- Authy : Authentification à double facteur. Prise en charge est la 2FA (connexion à deux facteurs)
-- Bitwarden : Gestionnaire de mots de passes
-- DeepL : Traduction
-- EMB3D : Liseur de fichiers 3D
-- Fusion 360 : Compagnon de l'application de dessin 3D
-- Joplin : Gestion de notes
-- MeteoSwiss : Prévisions météo pour la Suisse et alentours
-- Nextcloud : Auto-hébergement de fichiers
-- OctoPod : Gestion imprimante 3D
-- OpenDocumentReaderLite : Liseur de fichiers Libre Office
-- Orange Téléphone : Gestion des appels malveillants
-- Shazam : Identification de musiques
+- [NextDNS](https://nextdns.io/fr) : protège contre toutes sortes de menaces, bloque les publicités et les trackers sur les sites web et dans les applications
+- [Authy](https://authy.com/) : Authentification à double facteur. Prise en charge est la 2FA (connexion à deux facteurs)
+- [Bitwarden](https://bitwarden.com/) : Gestionnaire de mots de passes
+- [DeepL](https://www.deepl.com/fr/translator) : Traduction de  textes
+- [EMB3D](https://www.emb3d.com/) : Liseur de fichiers 3D
+- [Fusion 360](https://www.autodesk.fr/products/fusion-360/overview?term=1-YEAR&tab=subscription) : Compagnon de l'application de dessin 3D
+- [Joplin](https://joplinapp.org/) : Gestion de notes
+- [MeteoSwiss](https://duckduckgo.com/?q=meteoswiss&t=newext&atb=v386-1&ia=web) : Prévisions météo pour la Suisse et alentours
+- [Nextcloud](https://nextcloud.com/fr/) : Auto-hébergement de fichiers
+- [OctoPod](https://plugins.octoprint.org/plugins/octopod/) : Gestion imprimante 3D
+- [OpenDocumentReaderLite](https://opendocument.app/) : Liseur de fichiers Libre Office
+- [Orange Téléphone](https://applications-et-logiciels.orange.fr/applications/orange-telephone) : Gestion des appels malveillants
+- [Shazam](https://www.shazam.com/fr) : Identification de musiques
 
 ### Communication/Social
 - Discord :
