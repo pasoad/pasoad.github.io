@@ -82,7 +82,6 @@ NB : Liste susceptible de changer régulièrement au fil du temps.
 - []()Youtube :
 
 ### Jeux <a name="jeux"></a>
-- []()Pokemon TCG Live :
 - []()PS App :
 - []()Steam :
 - []()Xbox :
